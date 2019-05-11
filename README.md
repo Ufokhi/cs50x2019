@@ -24,4 +24,4 @@ int main(void)
 
 ```
 # Based on edX
-All tasks are based on HarvardX course [CS50's Introduction to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
+All tasks are based on HarvardX's course [CS50's Introduction to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
