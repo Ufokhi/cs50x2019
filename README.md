@@ -1,7 +1,7 @@
 # CS50x 2019 psets solutions
 
--Week 1
- -[Mario.c](https://github.com/Ufokhi/cs50x2019/blob/master/pset1/hello.c)
+- Week 1
+  - [Mario.c](https://github.com/Ufokhi/cs50x2019/blob/master/pset1/hello.c)
 
 
 # Code example
