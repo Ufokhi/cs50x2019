@@ -1,3 +1,6 @@
+# FIRST
+My name is Patryk and i am 18 yo. I am a freshman in programming and my solutions are not perfect. Feel free to send me your advices and solutions :)
+
 # CS50x 2019 psets solutions
 
 - Week 1
@@ -11,8 +14,8 @@
 
 
 # Code example
-All tasks are written in C language
-Some of them contains pseudocode file
+All tasks are written in C language,
+some of them contains pseudocode file
 
 ```
 // Patryk Rogala (Ufokhi)
