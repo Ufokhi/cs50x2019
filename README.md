@@ -2,6 +2,12 @@
 
 - Week 1
   - [hello.c](https://github.com/Ufokhi/cs50x2019/blob/master/pset1/hello.c)
+  - [mario.c (less)](https://github.com/Ufokhi/cs50x2019/blob/master/pset1/marioless.c)
+  - [mario.c (more)](https://github.com/Ufokhi/cs50x2019/blob/master/pset1/mariomore.c)
+  - [cash.c](https://github.com/Ufokhi/cs50x2019/blob/master/pset1/cash.c)
+  - [credit.c](https://github.com/Ufokhi/cs50x2019/blob/master/pset1/credit.c)
+- Week 2
+  - Soon...
 
 
 # Code example
